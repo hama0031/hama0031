@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Catherine or Tina for short
+- 👋 Hi, my name is Catherine or Tina for short.
 - 👀 I’m interested in starting this new career.
 - 🌱 I’m currently diving into the new world of coding.
 - 💞️ I’m looking to collaborate on all assignments and forming a study group as soon as possible.
